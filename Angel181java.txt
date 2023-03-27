@@ -1,0 +1,16 @@
+import java.util.Scanner;
+class Angel18
+{
+   public static void main(String args[])
+{
+  Scanner sc=new Scanner(System.in);
+  int num1=sc.nextInt();//18
+  int num2=sc.nextInt();//19
+  num1+num2=res
+//18+19=37
+  {
+     Syatem.out.print(num1+"+"+num2+"="+res);
+}//main()
+}//Angel18
+}
+  
