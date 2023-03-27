@@ -1,0 +1,10 @@
+class Angel
+{
+public static void main(String args[]){
+System.out.print("My name is angel");
+System.out.print("Im pursing btech 3rd year");
+System.out.print("In A.M.reddy memorial college");
+System.out.print("Im independent student");
+System.out.print("I like my self");
+}//main()
+}//Angel
